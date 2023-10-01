@@ -1,0 +1,111 @@
+23-09-2023, 13:34, 9,8, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:34, 8,8, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:34, 8,8, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:34, 8,7, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:34, 7,7, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:34, 7,6, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:34, 7,6, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:34, 6,5, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:34, 6,5, ,Signal Out Of range
+23-09-2023, 13:34, 5,4, ,Signal Out Of range
+23-09-2023, 13:34, 5,4, ,
+23-09-2023, 13:34, 4,3, ,
+23-09-2023, 13:34, 3,3, ,
+23-09-2023, 13:34, 3,2, ,
+23-09-2023, 13:34, 2,1, ,
+23-09-2023, 13:34, 2,1, ,
+23-09-2023, 13:34, 1,0, ,
+23-09-2023, 13:34, 0,1, ,
+23-09-2023, 13:34, 0,1, ,
+23-09-2023, 13:34, 1,2, ,
+23-09-2023, 13:34, 2,2, ,
+23-09-2023, 13:34, 2,3, ,
+23-09-2023, 13:34, 3,4, ,
+23-09-2023, 13:34, 3,4, ,
+23-09-2023, 13:34, 4,5, ,
+23-09-2023, 13:34, 4,5, Signal Out Of range,
+23-09-2023, 13:34, 5,6, Signal Out Of range,
+23-09-2023, 13:34, 5,6, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:34, 6,7, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:34, 6,7, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:34, 7,7, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:34, 7,8, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:34, 8,8, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:34, 8,9, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:34, 9,9, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 9,9, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 9,9, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 9,10, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 9,10, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 10,10, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 10,10, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 10,10, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 10,10, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 10,10, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 10,9, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 9,9, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 9,9, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 9,9, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 9,8, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 9,8, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 8,8, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 8,7, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 8,7, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 7,7, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 7,6, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 6,6, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 6,5, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 5,5, ,Signal Out Of range
+23-09-2023, 13:35, 5,4, ,
+23-09-2023, 13:35, 4,3, ,
+23-09-2023, 13:35, 4,3, ,
+23-09-2023, 13:35, 3,2, ,
+23-09-2023, 13:35, 2,2, ,
+23-09-2023, 13:35, 2,1, ,
+23-09-2023, 13:35, 1,0, ,
+23-09-2023, 13:35, 1,0, ,
+23-09-2023, 13:35, 0,1, ,
+23-09-2023, 13:35, 1,1, ,
+23-09-2023, 13:35, 1,2, ,
+23-09-2023, 13:35, 2,3, ,
+23-09-2023, 13:35, 2,3, ,
+23-09-2023, 13:35, 3,4, ,
+23-09-2023, 13:35, 4,4, ,
+23-09-2023, 13:35, 4,5, ,
+23-09-2023, 13:35, 5,5, Signal Out Of range,
+23-09-2023, 13:35, 5,6, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 6,6, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 6,7, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 7,7, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 7,8, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 8,8, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 8,8, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 8,9, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 9,9, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 9,9, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 9,9, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 9,9, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 9,10, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 10,10, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 10,10, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 10,10, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 10,10, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 10,10, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 10,9, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 9,9, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 9,9, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 9,9, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 9,9, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 9,8, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 8,8, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 8,8, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 8,7, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 7,7, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 7,6, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 6,6, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 6,5, Signal Out Of range,Signal Out Of range
+23-09-2023, 13:35, 5,5, ,Signal Out Of range
+23-09-2023, 13:35, 5,4, ,
+23-09-2023, 13:35, 4,4, ,
+23-09-2023, 13:35, 4,3, ,
+23-09-2023, 13:35, 3,2, ,
